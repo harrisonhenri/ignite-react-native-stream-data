@@ -1,4 +1,4 @@
-# Rentx app
+# GoStream app
 
 ## About this Project
 
